@@ -25,9 +25,9 @@
 ---
 
 ## ✨ 关于我
-- **姓名**：YOUR_NAME  
-- **定位**：Full-Stack / Backend / ML / DevOps（按需删改）  
-- **简介**：YOUR_BIO —— 一到两句，突出你擅长的领域、爱好或求职方向（例如：我专注于高可用后端、微服务与数据工程，喜欢写工具提高开发效率）。
+- **姓名**：树萌芽  
+- **定位**：Full-Stack / Backend / DevOps
+- **简介**：努力学习，努力生活！
 
 ---
 
@@ -40,16 +40,22 @@
     <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></td>
     <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></td>
     <td><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></td>
+    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+    <td><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/></td>
     <td><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/></td>
     <td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></td>
     <td><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="K8s"/></td>
+    <td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></td>
+    <td><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="K8s"/></td>
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/></td>
     <td><img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/></td>
+    <td><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/></td>
+    <td><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/></td>
     <td><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/></td>
     <td><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/></td>
   </tr>
