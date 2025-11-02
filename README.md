@@ -4,12 +4,12 @@
 
 <div align="center">
 
-# 👋 你好，我是 **YOUR_NAME**
-**简短签名/一句话介绍 — 比如：全栈工程师 · 开源爱好者 · 喜欢把想法变成代码**
+# 👋 你好，我是 **树萌芽**
+**一个喜欢捣鼓一下奇奇怪怪的玩意的人**
 
 <!-- 头图 / 头像（可选） -->
 <br/>
-<img src="https://github.com/YOUR_USERNAME.png" alt="avatar" width="140" style="border-radius:50%"/>
+<img src="[https://github.com/YOUR_USERNAME.png](https://img.shumengya.top/i/2025/11/02/69073c018174e.webp)" alt="avatar" width="140" style="border-radius:50%"/>
 
 <!-- 社交徽章 -->
 <p>
@@ -92,15 +92,11 @@
 
 ---
 
-> 若你希望把项目卡片更漂亮，可以用小图标/徽章并配合 README 模板库来增强视觉（参考 Awesome profile templates）。:contentReference[oaicite:2]{index=2}
-
----
 
 ## 📫 联系方式
-- 邮箱：`youremail@example.com`  
-- 微信：`your_wechat_id`（可放二维码图片）  
-- LinkedIn：`https://www.linkedin.com/in/YOUR_LINK`  
-- Twitter：`https://twitter.com/YOUR_HANDLE`  
+- 邮箱：`shumengya666@gmail.com`  
+- QQ：`3205788256`
+- LinkedIn：`https://shumengya.top`  
 
 ---
 
@@ -111,10 +107,5 @@
 
 ---
 
-## 💡 快速小贴士（How to personalize）
-1. **替换占位符**：把 `YOUR_USERNAME`、`YOUR_NAME`、`YOUR_BIO` 和项目链接替换为你自己的内容。  
-2. **徽章生成**：访问 **Shields.io** 自定义徽章、颜色、图标与样式，然后把生成的 `img.shields.io` 链接粘贴到 README 中。:contentReference[oaicite:4]{index=4}  
-3. **图标合集**：如果想更精细的技术图标布局，可参考 profile-technology-icons 等开源集合。:contentReference[oaicite:5]{index=5}  
-4. **灵感来源**：浏览 “awesome GitHub profile readme” 与模板仓库获取不同风格示例（卡片风、极简风、动态图表等）。:contentReference[oaicite:6]{index=6}
 
 
