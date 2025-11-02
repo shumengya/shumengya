@@ -23,7 +23,7 @@
 
 ---
 
-## ✨ 关于我
+## ✨ 关于我（About Me）
 - **姓名**：树萌芽  
 - **定位**：Full-Stack / Backend / DevOps
 - **简介**：努力学习，努力生活！
@@ -70,22 +70,6 @@
 - 支持水平扩展与自动故障转移
 - 延迟 < 5ms 的关键路径优化
 
----
-
-### 2. [Project-Two](https://github.com/YOUR_USERNAME/project-two)  
-**简介**：项目简介（例如：基于深度学习的文本分类平台）。  
-**技术栈**：`Python` · `PyTorch` · `FastAPI` · `Docker`  
-**亮点**：
-- 可在线微调模型并自动部署
-- 内置 A/B 测试
-
----
-
-### 3. [Project-Three](https://github.com/YOUR_USERNAME/project-three)  
-**简介**：项目简介（例如：可视化数据分析面板）。  
-**技术栈**：`TypeScript` · `React` · `D3.js` · `Postgres`  
-**亮点**：
-- 实时数据流与自定义仪表盘
 
 ---
 
