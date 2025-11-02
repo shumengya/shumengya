@@ -13,7 +13,6 @@
 
 <!-- 社交徽章 -->
 <p>
-  <!-- 用 Shields.io 生成并替换链接中的 YOUR_USERNAME / YOUR_LINK -->
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINK/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -32,7 +31,6 @@
 ---
 
 ## 🛠 技术栈（Tech Stack）
-> 以徽章/图标展示，整齐又直观。你可以用 Shields.io 或者 profile-technology-icons 之类的图标合集来美化。:contentReference[oaicite:1]{index=1}
 
 <table>
   <tr align="center">
