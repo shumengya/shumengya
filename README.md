@@ -62,10 +62,9 @@
 ---
 
 ## 🚀 项目精选（Projects）
-> 展示 3~6 个代表性项目——短简介 + 技术标签 + 直接链接。保持卡片式简洁排版，便于 HR / 合作者快速浏览。
 
 ### 1. [Project-One](https://github.com/YOUR_USERNAME/project-one)  
-**一句话**：用一句话说明项目目标或价值（例如：高并发消息队列服务）。  
+**简介**：用一句话说明项目目标或价值（例如：高并发消息队列服务）。  
 **技术栈**：`Go` · `gRPC` · `Kubernetes` · `Redis`  
 **亮点**：
 - 支持水平扩展与自动故障转移
@@ -74,7 +73,7 @@
 ---
 
 ### 2. [Project-Two](https://github.com/YOUR_USERNAME/project-two)  
-**一句话**：项目简介（例如：基于深度学习的文本分类平台）。  
+**简介**：项目简介（例如：基于深度学习的文本分类平台）。  
 **技术栈**：`Python` · `PyTorch` · `FastAPI` · `Docker`  
 **亮点**：
 - 可在线微调模型并自动部署
@@ -83,7 +82,7 @@
 ---
 
 ### 3. [Project-Three](https://github.com/YOUR_USERNAME/project-three)  
-**一句话**：项目简介（例如：可视化数据分析面板）。  
+**简介**：项目简介（例如：可视化数据分析面板）。  
 **技术栈**：`TypeScript` · `React` · `D3.js` · `Postgres`  
 **亮点**：
 - 实时数据流与自定义仪表盘
@@ -98,12 +97,6 @@
 
 ---
 
-## 📈 其他可选小组件（可选）
-- 动态 GitHub 贡献图 / 日历（GitHub 自带）  
-- GitHub Readme Stats（动态统计卡片）或动态语言统计（第三方服务）  
-- 最新博客/文章：可用 GitHub Actions / RSS 自动更新到 README。:contentReference[oaicite:3]{index=3}
-
----
 
 
 
