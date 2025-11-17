@@ -4,12 +4,12 @@
 
 <div align="center">
 
-# 👋 你好，我是 **树萌芽**
-**一个喜欢捣鼓一下奇奇怪怪的玩意的人**
+# 🔍 你好，我是 **树萌芽**
+**一个喜欢捣鼓各种奇奇怪怪的玩意的人**
 
 <!-- 头图 / 头像（可选） -->
 <br/>
-<img src="[https://github.com/YOUR_USERNAME.png](https://img.shumengya.top/i/2025/11/02/69073c018174e.webp)" alt="avatar" width="140" style="border-radius:50%"/>
+<img src="[头像图片](https://avatars.githubusercontent.com/u/50783834?v=4)" alt="avatar" width="140" style="border-radius:50%"/>
 
 <!-- 社交徽章 -->
 <p>
@@ -63,12 +63,12 @@
 
 ## 🚀 项目精选（Projects）
 
-### 1. [Project-One](https://github.com/YOUR_USERNAME/project-one)  
-**简介**：用一句话说明项目目标或价值（例如：高并发消息队列服务）。  
-**技术栈**：`Go` · `gRPC` · `Kubernetes` · `Redis`  
+### 1. [萌芽农场](https://github.com/shumengya/project-one)  
+**简介**：一个Godot和Python搭建的2D多人联机农场类游戏。  
+**技术栈**：`GDScript` · `Python` 
 **亮点**：
-- 支持水平扩展与自动故障转移
-- 延迟 < 5ms 的关键路径优化
+- 轻量小巧
+- 玩法丰富
 
 
 ---
