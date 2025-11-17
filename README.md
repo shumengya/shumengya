@@ -13,10 +13,9 @@
 
 <!-- 社交徽章 -->
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR_HANDLE-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/shumengya"><img src="https://img.shields.io/badge/GitHub-@shumengya-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shumengya666@gmail.com"><img src="https://img.shields.io/badge/Email-shumengya666@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.shumengya.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
