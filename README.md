@@ -15,7 +15,7 @@
 <p>
   <a href="https://github.com/shumengya"><img src="https://img.shields.io/badge/GitHub-@shumengya-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:shumengya666@gmail.com"><img src="https://img.shields.io/badge/Email-shumengya666@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.shumengya.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.shumengya.top"><img src="https://img.shields.io/badge/LinkedIn-shumengya.top-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -64,7 +64,7 @@
 
 ### 1. [萌芽农场](https://github.com/shumengya/project-one)  
 **简介**：一个Godot和Python搭建的2D多人联机农场类游戏。  
-**技术栈**：`GDScript` · `Python` 
+**技术栈**：`GDScript` · `Python`  ·
 **亮点**：
 - 轻量小巧
 - 玩法丰富
