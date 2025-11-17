@@ -9,7 +9,7 @@
 
 <!-- 头图 / 头像（可选） -->
 <br/>
-<img src="[头像图片](https://avatars.githubusercontent.com/u/50783834?v=4)" alt="avatar" width="140" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/50783834?v=4" alt="avatar" width="140" style="border-radius:50%"/>
 
 <!-- 社交徽章 -->
 <p>
