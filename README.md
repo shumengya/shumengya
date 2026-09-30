@@ -3,13 +3,13 @@
 <!-- =========================== -->
 
 <div align="center">
-# 🔍 你好，我是 **树萌芽** 
-**一个喜欢捣鼓各种奇奇怪怪的玩意的人**
 <!-- 头图 / 头像-->
 <br/>
 <img src="https://avatars.githubusercontent.com/u/50783834?v=4" alt="avatar" width="140" style="border-radius:50%"/>
 </div>
+
 ---
+
 ## 关于我（About Me）
 - **昵称**：树萌芽  
 - **定位**：Full-Stack / Backend / DevOps 
