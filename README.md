@@ -22,18 +22,11 @@
 专注于后端服务、全栈应用与基础设施实践，持续将有用的想法落地为简洁可靠的产品。
 
 ## 技术栈
-
 <p>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=go,py,ts,rust&theme=light" alt="Golang, Python, TypeScript, Rust" />
 </p>
-
 <p>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=debian,docker,cloudflare&theme=light" alt="Debian, Docker, Cloudflare" />
 </p>
 
 ## 精选项目
